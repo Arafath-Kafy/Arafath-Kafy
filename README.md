@@ -1,6 +1,6 @@
 # Hi 👋, I'm Md. Arafath Kafy  
 
-💻 A passionate **Junior Software QA Engineer | SDET in Progress** from Bangladesh  
+💻 A passionate **Junior Software QA Engineer | SDET** from Bangladesh  
 
 ![Profile views](https://komarev.com/ghpvc/?username=arafathkafy&label=Profile%20views&color=0e75b6&style=flat)
 
