@@ -46,10 +46,10 @@ I see myself as a lifelong learner, continuously upgrading my skills—whether i
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="selenium" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="postman" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/apache_jmeter/apache_jmeter-icon.svg" alt="jmeter" width="40" height="40"/> 
+  <img src="[https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg](https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png)" alt="selenium" width="40" height="40"/> 
+  <img src="[https://www.vectorlogo.zone/logos/mysql/mysql-official.svg](https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png)" alt="mysql" width="40" height="40"/> 
+  <img src="[https://www.vectorlogo.zone/logos/postman/postman-icon.svg](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png)" alt="postman" width="40" height="40"/> 
+  <img src="[https://www.vectorlogo.zone/logos/apache_jmeter/apache_jmeter-icon.svg](https://jmeter.apache.org/images/jmeter_square.png)" alt="jmeter" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </p>
 
@@ -58,9 +58,3 @@ I see myself as a lifelong learner, continuously upgrading my skills—whether i
 ### 🔗 Connect with Me  
 [![Linkedin Badge](https://img.shields.io/badge/-Md.%20Arafath%20Kafy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin/)](https://www.linkedin.com/in/yourlinkedin/)  
 [![Facebook Badge](https://img.shields.io/badge/-Md.%20Arafath%20Kafy-blue?style=flat&logo=Facebook&logoColor=white&link=https://facebook.com/yourfacebook)](https://facebook.com/yourfacebook)  
-
----
-
-### 📊 GitHub Stats  
-![Arafath's GitHub stats](https://github-readme-stats.vercel.app/api?username=arafathkafy&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arafathkafy&layout=compact&theme=tokyonight)  
