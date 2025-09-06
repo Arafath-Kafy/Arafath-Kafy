@@ -6,7 +6,24 @@
 
 ---
 
-### 💡 About Me  
+### 💡 About Me
+
+A dedicated Software QA Engineer with a strong foundation in both manual and automation testing. I enjoy ensuring software quality through systematic testing, problem-solving, and continuous improvement.
+
+Rather than limiting myself to specific tools or frameworks, I focus on building a growth mindset, learning quickly, and adapting to new technologies as they emerge. I believe testing is more than just finding bugs—it’s about delivering reliable, user-friendly, and high-quality software.
+
+My core values as a QA professional are:
+
+🔹 Curiosity – asking the right questions to uncover hidden issues
+
+🔹 Detail-orientation – ensuring nothing slips through unnoticed
+
+🔹 Adaptability – embracing new tools, technologies, and approaches
+
+🔹 Collaboration – working closely with teams to achieve shared goals
+
+I see myself as a lifelong learner, continuously upgrading my skills—whether in test automation, API testing, performance testing, or new QA methodologies—to stay relevant and valuable in the ever-evolving world of software development.
+
 - 🔎 I’m a **detail-oriented QA Engineer** with hands-on experience in **manual testing** and growing skills in **automation**  
 - 🌱 Currently learning **Selenium, TestNG, Java** and building automation frameworks  
 - 🧪 Interested in **Web Automation, API Testing, and Performance Testing**  
